@@ -1,5 +1,5 @@
 # Required
-github_username: "tillson"
-github_password: "a8ueifjq4jkasdfoiulk"
+github_username: "hanumanthreddy022@gmail.com"
+github_password: "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"
 # Optional
 github_totp_seed: "ABCDEF1234567890" # Obtained via https://github.com/settings/two_factor_authentication/verify
