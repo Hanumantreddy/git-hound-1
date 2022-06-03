@@ -3,7 +3,7 @@ package tests
 import (
 	"testing"
 
-	"github.com/tillson/git-hound/internal/app"
+	"github.com/hanumanthreddy/git-hound/internal/app"
 )
 
 func TestMatchKeywords(t *testing.T) {
