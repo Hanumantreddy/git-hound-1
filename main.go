@@ -3,7 +3,7 @@ package main
 import (
 	_ "net/http/pprof"
 
-	"github.com/tillson/git-hound/cmd"
+	"github.com/hanumanthreddy/git-hound/cmd"
 )
 
 func main() {
